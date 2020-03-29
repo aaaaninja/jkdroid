@@ -1,0 +1,2 @@
+rootProject.name='jkdroid'
+include ':app'
